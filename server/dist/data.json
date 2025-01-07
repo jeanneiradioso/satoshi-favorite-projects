@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Project Alpha",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01",
+      "description": "Description for Project Alpha",
+      "projectManager": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "Project Beta",
+      "description": "Description for Project Beta",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01",
+      "projectManager": "John Doe"
+    },
+    {
+      "id": "3",
+      "title": "Project Gamma",
+      "description": "Description for Project Gamma",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01",
+      "projectManager": "John Doe"
+    }
+]
+  
